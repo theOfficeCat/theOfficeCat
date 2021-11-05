@@ -1,4 +1,5 @@
-Hi! I'm Raúl, an informatic engineering student at 
+Hi! I am Raúl, an informatic engineering student at 
+UPC
 
 <h1 align = "center">Statistics</h1>
 <p align = "center">
