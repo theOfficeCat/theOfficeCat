@@ -17,7 +17,12 @@ I am a computer engineering student at UPC interested in programming web and des
 
 ### Programming languages
 
-[<img src="logos/python.svg" width=40 max-height=40>](https://www.python.org/) [<img src="logos/javascript.svg" width=40 max-height=40>](https://www.javascript.com/) [<img src="logos/c++.svg" width=40 max-height=40>](https://isocpp.org/) [<img src="logos/kotlin.svg" width=40 max-height=40>](https://kotlinlang.org/)
+#### Known
+[<img src="logos/python.svg" width=40 max-height=40>](https://www.python.org/) [<img src="logos/javascript.svg" width=40 max-height=40>](https://www.javascript.com/) 
+
+#### Learning
+  
+[<img src="logos/c++.svg" width=40 max-height=40>](https://isocpp.org/) [<img src="logos/kotlin.svg" width=40 max-height=40>](https://kotlinlang.org/)
 
 ### Frameworks
 
