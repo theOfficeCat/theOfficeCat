@@ -22,7 +22,7 @@ I am a computer engineering student at UPC interested in programming web and des
 
 #### Learning
   
-[<img src="logos/c++.svg" width=40 max-height=40>](https://isocpp.org/) [<img src="logos/kotlin.svg" width=40 max-height=40>](https://kotlinlang.org/)
+[<img src="logos/c++.svg" width=40 max-height=40>](https://isocpp.org/) [<img src="logos/c.svg" width=40 max-height=40>](https://www.iso.org/standard/74528.html)
 
 ### Frameworks
 
