@@ -7,9 +7,6 @@ I am a computer engineering student at UPC interested in programming web and des
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=raulgilabert&show_icons=true&theme=github_dark)](https://github.com/raulgilabert)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=raulgilabert&show_icons=true&locale=en&theme=github_dark)](https://github.com/raulgilabert)
-
-
 ## My skills
 ### Operative systems
 
@@ -23,10 +20,6 @@ I am a computer engineering student at UPC interested in programming web and des
 #### Learning
   
 [<img src="logos/c++.svg" width=40 max-height=40>](https://isocpp.org/) [<img src="logos/c.svg" width=40 max-height=40>](https://www.iso.org/standard/74528.html)
-
-### Frameworks
-
-[<img src="logos/expressjs.svg" width=40 max-height=40>](https://expressjs.com/) [<img src="logos/tornado.png" width=40 max-height=40>](https://www.tornadoweb.org/en/stable/)
 
 ### Other languages
 
