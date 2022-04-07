@@ -1,7 +1,7 @@
 <div id="content" align="center">
 
 ## About me
-I am a computer engineering student at UPC interested in programming web and desktop applications and also AI.
+I am a computer engineering student at UPC interested in ML, deep learning, operative systems and server-side programming.
 
 ## My Github
 
