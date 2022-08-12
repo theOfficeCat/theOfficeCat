@@ -14,7 +14,7 @@ I am a computer engineering student at UPC interested in ML, deep learning, oper
 
 ### languages
 
-[<img src="logos/python.svg" width=40 max-height=40>](https://www.python.org/) [<img src="logos/javascript.svg" width=40 max-height=40>](https://www.javascript.com/) [<img src="logos/c++.svg" width=40 max-height=40>](https://isocpp.org/) [<img src="logos/c.svg" width=40 max-height=40>](https://www.iso.org/standard/74528.html) [<img src="logos/html.svg" width=40 max-height=40>](https://html.spec.whatwg.org/) [<img src="logos/json.svg" width=40 max-height=40>](https://www.json.org/json-en.html) [<img src="logos/markdown.svg" width=40 max-height=40>](https://daringfireball.net/projects/markdown/)
+[<img src="logos/python.svg" width=40 max-height=40>](https://www.python.org/) [<img src="logos/javascript.svg" width=40 max-height=40>](https://www.javascript.com/) [<img src="logos/c++.svg" width=40 max-height=40>](https://isocpp.org/) [<img src="logos/c.svg" width=40 max-height=40>](https://www.iso.org/standard/74528.html) [<img src="logos/lua.svg" width=40 max-height=40>](https://www.lua.org) [<img src="logos/rust.png" width=40 max-height=40>](https://www.rust-lang.org) [<img src="logos/html.svg" width=40 max-height=40>](https://html.spec.whatwg.org/) [<img src="logos/json.svg" width=40 max-height=40>](https://www.json.org/json-en.html) [<img src="logos/markdown.svg" width=40 max-height=40>](https://daringfireball.net/projects/markdown/)
 
 ### Tools
 
