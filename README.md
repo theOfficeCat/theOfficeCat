@@ -7,6 +7,8 @@ I am a computer engineering student at UPC interested in ML, deep learning, oper
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=raulgilabert&show_icons=true&theme=github_dark)](https://github.com/raulgilabert)
 
+[![@raulgilabert's Holopin board](https://holopin.me/raulgilabert)](https://holopin.io/@raulgilabert)
+
 ## My skills
 ### Operative systems
 
