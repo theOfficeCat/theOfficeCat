@@ -1,7 +1,7 @@
 <div id="content" align="center">
 
 ## About me
-I am a computer engineering student at UPC interested in ML, deep learning, operative systems and backend programming.
+I am a computer engineering student at UPC interested in operative systems, hardware and backend programming.
 
 ## My Github
 
