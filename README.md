@@ -7,8 +7,8 @@ I am a computer architecture student at UPC interested in operative systems, har
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=raulgilabert&show_icons=true&theme=github_dark)](https://github.com/raulgilabert)
 
-[![@raulgilabert's Holopin board](https://holopin.me/raulgilabert)](https://holopin.io/@raulgilabert)
-
+<!--[![@raulgilabert's Holopin board](https://holopin.me/raulgilabert)](https://holopin.io/@raulgilabert)
+-->
 ## My skills
 ### Operative systems
 
