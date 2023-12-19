@@ -1,7 +1,7 @@
 <div id="content" align="center">
 
 ## About me
-I am a computer architecture student at UPC interested in operative systems, hardware and backend programming.
+I am a computer architecture student at UPC interested in operative systems and processors design.
 
 ## My Github
 
