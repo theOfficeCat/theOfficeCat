@@ -3,9 +3,12 @@
 ## About me
 I am a computer engineering student at UPC interested in operative systems and processors design.
 
-## My Github
+## My GitHub stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=raulgilabert&show_icons=true&theme=github_dark)](https://github.com/raulgilabert)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raulgilabert&theme=dark\&show_icons=true\&rank_icon=github)][gh_profile] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgilabert&layout=compact&theme=dark&langs_count=8)][gh_profile] |
+|:--:|:--:|
+
 
 <!--[![@raulgilabert's Holopin board](https://holopin.me/raulgilabert)](https://holopin.io/@raulgilabert)
 -->
