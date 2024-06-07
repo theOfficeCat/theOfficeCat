@@ -12,3 +12,4 @@ I am a computer engineering student at UPC interested in operative systems and p
 
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://static.wikia.nocookie.net/fnaf-tower-defense/images/7/77/Among-us-red-png-01.png');]{x0000}$}
+```
