@@ -1,3 +1,7 @@
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/raulgilabert/raulgilabert/Among-us-red-png-01.webp');]{x0000}$}
+```
+
 <div id="content" align="center">
 
 ## About me
@@ -10,5 +14,3 @@ I am a computer engineering student at UPC interested in operative systems and p
 |:--:|:--:|
 
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/raulgilabert/raulgilabert/Among-us-red-png-01.webp');]{x0000}$}
