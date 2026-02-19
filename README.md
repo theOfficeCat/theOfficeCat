@@ -1,7 +1,7 @@
 <div id="content" align="center">
 
 ## About me
-I am a computer engineering student at UPC interested in OS development and processors design.
+I am a computer engineering student at UPC interested in processor architecture and hardware accelerators.
 
 ## My GitHub stats
 
